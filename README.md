@@ -1,5 +1,10 @@
 # Quantum-Computing
 Quantum Theories &amp; Applications
+
+<img src="https://cdn.myportfolio.com/b268981b-d19c-44b4-ae50-645ed14e0457/59b43da2-dfec-4b07-9f3a-260b979c2614.png?h=80ca327eb01b4a5db51a0f2ce39495dc">
+
+Source: https://dosmaps.com/moquantumcomputing
+
 Course Content: https://facilities.aicte-india.org/Minor%20Quantum%20Technologies.pdf
 
 ## QT-05: Quantum Computation
