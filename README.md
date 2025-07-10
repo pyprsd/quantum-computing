@@ -1,5 +1,6 @@
 # Quantum-Computing
 Quantum Theories &amp; Applications
+Course Content: https://facilities.aicte-india.org/Minor%20Quantum%20Technologies.pdf
 
 ## QT-05: Quantum Computation
 ![image](https://github.com/user-attachments/assets/cb66b90d-71c8-412f-9cd5-bcd0dbf101ab)
