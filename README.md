@@ -65,3 +65,6 @@ Experts/Speakers
 8) Mr. A. Ananda Raman, Scientific Officer – E, NISER, Bhubaneswar
 9) Mr. Jinesh VN, PES University, Bengaluru
 10) Dr. Raghavendra, SRM University, Bengaluru
+
+Coding References
+1) IBM Qiskit SDK [https://www.ibm.com/quantum/qiskit]
