@@ -7,9 +7,24 @@ Source: https://dosmaps.com/moquantumcomputing
 
 Course Content: https://facilities.aicte-india.org/Minor%20Quantum%20Technologies.pdf
 
+## QT-01: Survey of Quantum Technology and Applications
+<a href="https://www.youtube.com/playlist?list=PLFxYlZrPtZWzMTf-LKF0BrY25F9KEhCFy">Live Session-Playlist</a> 
+
+## QT-02: Foundations of Quantum Technologies
+<a href="https://www.youtube.com/playlist?list=PLFxYlZrPtZWzDFk-BOy8iXWS4qWqHV-sa">Live Session-Playlist</a> 
+
+## QT-03: Basic Quantum Programming
+<a href="https://www.youtube.com/watch?v=2n_KOVRg6VU&list=PLFxYlZrPtZWxfuRiXkb85tLyWEng5hmun
+">Live Session-Playlist</a>
+
+## QT-04: Basic laboratory course for Quantum technologies
+
 ## QT-05: Quantum Computation
 ![image](https://github.com/user-attachments/assets/cb66b90d-71c8-412f-9cd5-bcd0dbf101ab)
+
 Canvas LMS: https://canvas.instructure.com/courses/12396919/
+
+<a href="https://www.youtube.com/playlist?list=PLFxYlZrPtZWyjwBiDJqQWaZAKvnytTYZ2">Live Session-Playlist</a>
 
 ## 1.Qubits versus classical bits: 
 	1.1 Spin-half systems and photon polarizations,
